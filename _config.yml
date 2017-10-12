@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 plugins:
   - jekyll-seo-tag
+title: Meers Tech
+description: A blog about many diffrent areas of tchnology. Some focuses are: Ubuntu, FLOSS, Handbrake, Makemkv, mkvtoolnix, epub, epub editing.
